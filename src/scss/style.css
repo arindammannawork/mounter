@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.topBanner {
+  background-image: url(../assets/images/banner.png);
+  background-size: cover;
+}
+.border-yellow {
+  @apply border border-yellow-400;
+}
